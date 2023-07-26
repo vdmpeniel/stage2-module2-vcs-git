@@ -1,5 +1,5 @@
-1
-2 
+1 ------> Practice Java web development
+2 ------> Learn CSS animations and flex box  
 3 
 4
 5
