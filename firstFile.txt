@@ -1,5 +1,5 @@
-1
-2
+1 --------------> Learn CSS animations and flexbox
+2 --------------> Learn AWS Developer Certification stuff
 3
 4
 5
